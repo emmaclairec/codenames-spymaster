@@ -1,0 +1,1 @@
+{"island": 1, "hilly": 1, "central": 1, "culminating": 1, "highest": 1, "peak": 1, "mountain": 1, "limon": 1, "expands": 1, "dorsal": 1, "country": 1}

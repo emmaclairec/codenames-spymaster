@@ -1,0 +1,1 @@
+{"fabric": 2, "examples": 1, "cross": 1, "stitch": 1, "forms": 1, "blackwork": 1, "embroidery": 1, "similar": 1, "counted": 1, "thread": 1, "regards": 1, "technique": 1, "canvas": 1, "work": 1, "needlepoint": 1, "threads": 1, "stitched": 1, "create": 1, "dense": 1, "pattern": 1, "completely": 1, "covers": 1, "foundation": 1}

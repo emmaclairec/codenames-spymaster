@@ -1,0 +1,1 @@
+{"national": 3, "park": 3, "island": 2, "river": 2, "earthquake": 1, "swarm": 1, "2004": 1, "activity": 1, "monroe": 1, "montana": 1, "1872": 1, "established": 1}

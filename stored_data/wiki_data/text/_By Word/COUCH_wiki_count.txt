@@ -1,0 +1,1 @@
+{"mill": 1, "worker": 1, "graham": 1, "chapman": 1, "enters": 1, "room": 1, "tells": 1, "woman": 1, "sitting": 1, "knitting": 1, "carol": 1, "cleveland": 1, "cross": 1, "beams": 1, "gone": 1, "askew": 1, "treadle": 1}

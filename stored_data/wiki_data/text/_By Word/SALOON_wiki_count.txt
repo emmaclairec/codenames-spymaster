@@ -1,0 +1,1 @@
+{"played": 1, "singer": 1, "whose": 1, "dreams": 1, "stardom": 1, "complicated": 1, "cowboy": 1, "falls": 1, "love": 1}

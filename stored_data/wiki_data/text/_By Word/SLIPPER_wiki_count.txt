@@ -1,0 +1,1 @@
+{"lobsters": 4, "clawed": 1, "closely": 1, "related": 1, "spiny": 1, "claws": 1, "chelae": 1, "squat": 1}

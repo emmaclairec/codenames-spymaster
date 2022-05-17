@@ -1,0 +1,1 @@
+{"press": 2, "publicity": 1, "stunts": 1, "revolved": 1, "clothing": 1, "either": 1, "shockingly": 1, "revealing": 1, "malfunctioning": 1, "shoulder": 1, "dress": 1, "snapped": 1, "conference": 1, "stories": 1, "monroe": 1, "portrayed": 1, "embodiment": 1, "american": 1, "dream": 1, "girl": 1, "risen": 1, "miserable": 1, "childhood": 1, "hollywood": 1, "stardom": 1}

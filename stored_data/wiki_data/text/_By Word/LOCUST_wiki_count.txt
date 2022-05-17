@@ -1,0 +1,1 @@
+{"anne": 1, "les": 1, "salines": 1, "popular": 1, "northern": 1, "island": 1, "catches": 1, "rainfall": 1, "heavily": 1, "forested": 1, "featuring": 1, "species": 1, "bamboo": 1, "mahogany": 1, "rosewood": 1, "valley": 1}

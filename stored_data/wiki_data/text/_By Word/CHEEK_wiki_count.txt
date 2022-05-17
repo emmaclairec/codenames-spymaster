@@ -1,0 +1,1 @@
+{"sullivan": 1, "fend": 1, "hard": 1, "sponsor": 1, "ford": 1, "lincoln": 1, "dealers": 1, "kissing": 1, "pearl": 1, "bailey": 1, "daring": 1, "shake": 1, "nat": 1, "king": 1, "cole": 1, "hand": 1, "nachman": 1, "wrote": 1}

@@ -1,0 +1,1 @@
+{"canal": 1, "reached": 1, "montezuma": 1, "marsh": 1, "outlet": 1, "cayuga": 1, "lake": 1, "west": 1, "syracuse": 1, "rumored": 1, "1": 1, "000": 1, "workers": 1, "died": 1, "fever": 1, "malaria": 1, "construction": 1, "temporarily": 1, "stopped": 1}

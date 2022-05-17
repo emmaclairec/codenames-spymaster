@@ -1,0 +1,1 @@
+{"mauritania": 2, "gradual": 1, "islamization": 1, "accompanied": 1, "process": 1, "arabization": 1, "berber": 1, "masters": 1, "lost": 1, "power": 1, "vassals": 1, "arab": 1, "conquerors": 1, "15th": 1, "19th": 1, "european": 1, "contact": 1, "dominated": 1, "trade": 1, "arabic": 1}

@@ -1,0 +1,1 @@
+{"player": 2, "final": 2, "special": 1, "guests": 1, "eurovision": 1, "song": 1, "contest": 1, "athletes": 1, "vitali": 1, "wladimir": 1, "klitschko": 1, "tennis": 1, "novak": 1, "djokovic": 1, "semi": 1, "retired": 1, "basketball": 1, "vlade": 1, "divac": 1, "2008": 1, "grand": 1, "opened": 1, "televoting": 1}

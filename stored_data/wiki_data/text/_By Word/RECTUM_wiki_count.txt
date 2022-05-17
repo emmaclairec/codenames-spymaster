@@ -1,0 +1,1 @@
+{"temperature": 2, "hifu": 1, "successfully": 1, "treat": 1, "cancer": 1, "destroy": 1, "tumours": 1, "bone": 1, "brain": 1, "breast": 1, "liver": 1, "pancreas": 1, "kidney": 1, "testes": 1, "prostate": 1, "anus": 1, "rectal": 1, "ear": 1, "tympanic": 1, "forehead": 1, "temporal": 1}

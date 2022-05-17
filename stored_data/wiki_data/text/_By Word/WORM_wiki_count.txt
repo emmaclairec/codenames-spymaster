@@ -1,0 +1,1 @@
+{"swansea": 2, "loughor": 2, "estuary": 2, "quarters": 1, "coast": 1, "bay": 1, "bristol": 1, "channel": 1, "geology": 1, "gower": 1, "peninsula": 1, "ranges": 1, "carboniferous": 1, "limestone": 1, "cliffs": 1, "southern": 1, "edge": 1, "mumbles": 1, "head": 1, "salt": 1, "marshes": 1, "dune": 1, "systems": 1, "north": 1}

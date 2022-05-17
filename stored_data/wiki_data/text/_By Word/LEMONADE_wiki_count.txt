@@ -1,0 +1,1 @@
+{"color": 2, "sought": 1, "prevent": 1, "similar": 1, "businesses": 1, "unrelated": 1, "fields": 1, "insurance": 1, "company": 1, "magenta": 1, "english": 1, "tokyo": 1, "oedo": 1, "subway": 1, "line": 1}

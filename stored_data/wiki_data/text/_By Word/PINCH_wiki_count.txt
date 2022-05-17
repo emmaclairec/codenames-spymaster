@@ -1,0 +1,1 @@
+{"endocytosis": 1, "clathrin": 1, "coat": 1, "assembled": 1, "cytoplasmic": 1, "face": 1, "plasma": 1, "membrane": 1, "forming": 1, "pits": 1, "invaginate": 1, "scission": 1, "become": 1, "free": 1, "ccvs": 1}

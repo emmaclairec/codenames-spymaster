@@ -1,0 +1,1 @@
+{"remainder": 1, "dangerous": 1, "sensitive": 1, "toxic": 1, "expensive": 1, "unstable": 1, "prone": 1, "decomposition": 1, "degradation": 1, "short": 1, "spans": 1, "contrast": 1, "materials": 1, "merely": 1, "combustible": 1, "flammable": 1, "burn": 1, "without": 1, "exploding": 1, "distinction": 1, "sharp": 1}

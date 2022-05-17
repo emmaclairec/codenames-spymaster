@@ -1,0 +1,1 @@
+{"eastern": 1, "hour": 1, "affiliates": 1, "air": 1, "local": 1, "newscasts": 1, "majority": 1, "fox": 1, "owned": 1, "operated": 1, "stations": 1, "affiliate": 1, "groups": 1, "carry": 1, "weekday": 1, "breaking": 1, "news": 1}

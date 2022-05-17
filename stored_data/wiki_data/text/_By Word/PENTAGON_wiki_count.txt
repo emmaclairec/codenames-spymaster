@@ -1,0 +1,1 @@
+{"reported": 3, "ship": 2, "control": 1, "iranian": 1, "revolutionary": 1, "guard": 1, "destroyer": 1, "uss": 1, "farragut": 1, "maritime": 1, "reconnaissance": 1, "aircraft": 1, "dispatched": 1, "upon": 1, "receiving": 1, "distress": 1, "call": 1, "tigris": 1, "34": 1, "crew": 1, "members": 1, "detained": 1}

@@ -1,0 +1,1 @@
+{"album": 2, "chapin": 2, "capital": 1, "medicine": 1, "show": 1, "included": 1, "song": 1, "belly": 1, "1973": 1, "version": 1, "tale": 1, "written": 1, "tom": 1, "john": 1, "forster": 1, "appears": 1, "mother": 1, "earth": 1, "1990": 1}

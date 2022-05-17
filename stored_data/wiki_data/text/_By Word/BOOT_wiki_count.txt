@@ -1,0 +1,1 @@
+{"luton": 2, "historian": 1, "john": 1, "naish": 1, "18th": 1, "expression": 1, "jack": 1, "meaning": 1, "stupid": 1, "person": 1, "originated": 1, "disparagement": 1, "stuart": 1, "performance": 1, "prime": 1, "minister": 1, "bute": 1, "purchased": 1, "hoo": 1, "park": 1, "francis": 1, "herne": 1, "mp": 1, "1763": 1, "sum": 1, "94": 1, "700": 1}

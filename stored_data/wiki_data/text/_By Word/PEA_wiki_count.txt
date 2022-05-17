@@ -1,0 +1,1 @@
+{"rosary": 2, "soup": 1, "germany": 1, "rosaries": 1, "sometimes": 1, "seeds": 1, "bead": 1, "tree": 1, "today": 1, "vast": 1, "majority": 1, "beads": 1, "glass": 1, "plastic": 1, "wood": 1}

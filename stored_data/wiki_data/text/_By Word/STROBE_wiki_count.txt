@@ -1,0 +1,1 @@
+{"tuner": 2, "regular": 1, "electronic": 1, "pedals": 1, "indicate": 1, "whether": 1, "guitar": 1, "string": 1, "sharp": 1, "flat": 1}

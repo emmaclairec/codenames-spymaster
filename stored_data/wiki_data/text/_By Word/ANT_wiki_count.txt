@@ -1,0 +1,1 @@
+{"memes": 2, "term": 1, "mneme": 1, "maurice": 1, "maeterlinck": 1, "white": 1, "1926": 1, "parallels": 1, "dawkins": 1, "concept": 1, "analogously": 1, "genes": 1, "vary": 1, "aptitude": 1, "replicate": 1, "successful": 1, "remain": 1, "spread": 1, "whereas": 1, "unfit": 1, "ones": 1, "stall": 1, "forgotten": 1}

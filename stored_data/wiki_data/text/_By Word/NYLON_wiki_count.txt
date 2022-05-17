@@ -1,0 +1,1 @@
+{"proteins": 1, "gel": 1, "transferred": 1, "polyvinylidene": 1, "fluoride": 1, "pvdf": 1, "nitrocellulose": 1, "support": 1, "membrane": 1, "gas": 1, "charged": 1, "lines": 1, "hard": 1, "plastics": 1, "spacers": 1, "separate": 1, "inner": 1, "outer": 1, "conductors": 1}

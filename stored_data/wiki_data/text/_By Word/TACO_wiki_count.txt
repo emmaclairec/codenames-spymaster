@@ -1,0 +1,1 @@
+{"global": 2, "2000": 1, "yorkshire": 1, "restaurants": 1, "agreed": 1, "test": 1, "multi": 1, "branded": 1, "locations": 1, "louisville": 1, "kentucky": 1, "tricon": 1, "owner": 1, "kfc": 1, "pizza": 1, "hut": 1, "bell": 1, "chains": 1}

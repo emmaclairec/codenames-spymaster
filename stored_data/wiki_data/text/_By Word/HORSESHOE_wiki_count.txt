@@ -1,0 +1,1 @@
+{"pacific": 3, "earthquakes": 2, "accurate": 1, "recordings": 1, "1900s": 1, "categorically": 1, "case": 1, "90": 1, "81": 1, "largest": 1, "take": 1, "place": 1, "shaped": 1, "zone": 1, "circum": 1, "seismic": 1, "belt": 1, "ring": 1, "fire": 1, "bounds": 1, "plate": 1}

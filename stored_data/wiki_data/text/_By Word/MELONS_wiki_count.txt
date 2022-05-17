@@ -1,0 +1,1 @@
+{"agricultural": 1, "products": 1, "coconuts": 1, "tomatoes": 1, "taro": 1, "breadfruit": 1, "fruits": 1, "pigs": 1, "chickens": 1}

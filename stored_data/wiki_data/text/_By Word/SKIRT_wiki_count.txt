@@ -1,0 +1,1 @@
+{"film": 1, "shot": 1, "hollywood": 1, "studio": 1, "decided": 1, "generate": 1, "advance": 1, "publicity": 1, "staging": 1, "filming": 1, "scene": 1, "monroe": 1, "standing": 1, "subway": 1, "grate": 1, "air": 1, "blowing": 1, "white": 1, "dress": 1, "lexington": 1, "avenue": 1, "manhattan": 1}

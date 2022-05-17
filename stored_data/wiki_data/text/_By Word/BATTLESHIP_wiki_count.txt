@@ -1,0 +1,1 @@
+{"1942": 1, "war": 1, "british": 1, "combined": 1, "force": 1, "permanently": 1, "disables": 1, "louis": 1, "joubert": 1, "lock": 1, "saint": 1, "nazaire": 1, "order": 1, "keep": 1, "german": 1, "tirpitz": 1, "away": 1, "mid": 1, "ocean": 1, "convoy": 1, "lanes": 1}

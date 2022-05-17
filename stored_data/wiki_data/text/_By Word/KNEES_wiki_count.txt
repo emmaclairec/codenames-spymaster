@@ -1,0 +1,1 @@
+{"shot": 3, "standard": 1, "texts": 1, "professional": 1, "references": 1, "full": 1, "length": 1, "view": 1, "human": 1, "subject": 1, "medium": 1, "terminology": 1, "person": 1, "waist": 1, "close": 1}

@@ -1,0 +1,1 @@
+{"identity": 2, "eurovision": 1, "created": 1, "kind": 1, "embracing": 1, "non": 1, "heteronormative": 1, "performers": 1, "performances": 1, "european": 1, "publics": 1, "accepting": 1, "russian": 1, "media": 1, "negative": 1, "reactions": 1, "openly": 1, "productions": 1}

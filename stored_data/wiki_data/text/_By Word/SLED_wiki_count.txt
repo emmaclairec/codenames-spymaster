@@ -1,0 +1,1 @@
+{"1978": 1, "japan": 1, "naomi": 1, "uemura": 1, "travelling": 1, "dog": 1, "becomes": 1, "person": 1, "reach": 1, "north": 1, "pole": 1, "alone": 1}

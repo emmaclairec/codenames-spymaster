@@ -1,0 +1,1 @@
+{"school": 1, "existing": 1, "landowners": 1, "expanded": 1, "holdings": 1, "peasant": 1, "expense": 1, "upwardly": 1, "mobile": 1, "owners": 1, "mestizos": 1, "acquired": 1, "land": 1, "reforma": 1, "final": 1, "overthrow": 1, "santa": 1, "anna": 1, "revolution": 1, "ayutla": 1, "1855": 1}

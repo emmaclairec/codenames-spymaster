@@ -1,0 +1,1 @@
+{"hungarian": 3, "army": 2, "ottoman": 2, "heavy": 2, "surrounded": 1, "cavalry": 1, "pincer": 1, "movement": 1, "center": 1, "knights": 1, "infantry": 1, "repulsed": 1, "suffered": 1, "casualties": 1, "especially": 1, "positioned": 1, "armed": 1, "trained": 1, "janissary": 1, "musketeers": 1, "nearly": 1, "entire": 1, "royal": 1, "destroyed": 1, "battlefield": 1}

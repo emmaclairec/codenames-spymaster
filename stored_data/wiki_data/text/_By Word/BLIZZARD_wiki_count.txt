@@ -1,0 +1,1 @@
+{"clapton": 2, "took": 2, "place": 2, "album": 2, "despite": 1, "admission": 1, "tour": 1, "amid": 1, "drugs": 1, "alcohol": 1, "resulted": 1, "live": 1, "double": 1, "concert": 1, "recording": 1, "dominos": 1, "studio": 1, "underway": 1, "clash": 1, "egos": 1, "walked": 1, "thus": 1, "disbanding": 1}
